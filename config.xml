@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/XCloud" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="iLyzeWGSEY.XCloud" package="iLyzeWGSEY" required_version="2.3"/>
+    <content src="app.html"/>
+    <feature name="http://tizen.org/feature/screen.size.normal.2160.3840"/>
+    <icon src="icon.png"/>
+    <name>XCloud</name>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
